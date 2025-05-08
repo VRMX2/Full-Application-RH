@@ -1,0 +1,3 @@
+[submodule "myproject/myfrontend"]
+	path = myproject/myfrontend
+	url = https://github.com/VRMX2/Full-Application-RH.git
